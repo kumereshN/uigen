@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm ls:*)",
+      "Bash(npm audit fix:*)",
+      "Bash(npm test:*)",
+      "Bash(npx vitest:*)",
+      "mcp__playwright",
+      "Bash(npm install:*)",
+      "WebSearch",
+      "Bash(npm run dev:*)",
+      "Bash(cat:*)"
+    ]
+  }
+}
